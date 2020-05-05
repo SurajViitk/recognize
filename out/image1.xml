@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>test_images</folder>
+	<filename>/image1.jpg</filename>
+	<path>path</path>
+	<size>
+		<width>1024</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<item>
+		<item>
+			<name>dog</name>
+			<bndbox>
+				<xmin>57</xmin>
+				<xmax>983</xmax>
+				<ymin>239</ymin>
+				<ymax>623</ymax>
+			</bndbox>
+		</item>
+		<item>
+			<name>dog</name>
+			<bndbox>
+				<xmin>28</xmin>
+				<xmax>887</xmax>
+				<ymin>20</ymin>
+				<ymax>200</ymax>
+			</bndbox>
+		</item>
+	</item>
+</annotation>
