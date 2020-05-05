@@ -1,5 +1,5 @@
 # Recognize
-Python based UI for choosing images and using ML algorithms (FRCNN, SSD Inception, SSD MobileNet) to label them. Various options are also provided.
+Python based UI in PyQt5 for choosing images and using ML algorithms (FRCNN, SSD Inception, SSD MobileNet) to label them. Various options are also provided.
 
 ![Recognize UI](https://github.com/SurajViitk/recognize/blob/master/screenshot/recognize.jpg)
 
