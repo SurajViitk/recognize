@@ -1,7 +1,7 @@
 # Recognize
 Python based UI for choosing images and using ML algorithms (FRCNN, SSD Inception, SSD MobileNet) to label them. Various options are also provided.
 
-![Recognize UI]()
+![Recognize UI](https://github.com/SurajViitk/recognize/blob/master/screenshot/recognize.jpg)
 
 Sample ScreenRecording-
 https://drive.google.com/open?id=1NnT5_huRoxYR65tYrf49l9cvkUHmY-SQ
